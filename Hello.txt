@@ -1,1 +1,5 @@
 Hello Team, Welcome to github first file pusshing.
+
+Dear DevOps team,
+
+we have daily class at 6 am, Please attend.
